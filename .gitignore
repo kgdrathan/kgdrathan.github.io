@@ -1,3 +1,5 @@
 node_modules/
 semantic/src/
-semantic/tasks
+semantic/tasks/
+semantic/dist/components/
+semantic/dist/themes/
