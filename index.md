@@ -4,16 +4,16 @@ title: Chat Application Using Django
 date: 2017-02-25
 use_math: true
 ---
-# Chat Application Using Django
+# [](#top)Chat Application Using Django
 
->This is a file from index
+> This is a file from index
 
 We are going to use 'gevent-socketio' a Python package which can be installed using pip. On the client side we are going to use socket.io.js. We are also being careful about which versions of python packages we are using.
 
 1. bullet 1 :)
 2. this is madness from $\sqrt{a^2+b}$
 
-## This is rather in the middle
+## [](#equation)This is rather in the middle
 
 This is one of the root of quadratic equation
 
