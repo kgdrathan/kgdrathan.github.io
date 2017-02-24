@@ -4,3 +4,10 @@ description: Unfinished recipe of my ramblings, knowledge and experiences
 name: K Gnan Deep Rathan
 show_downloads: false
 markdown: maruku
+markdown_ext: markdown, mkd, mkdn, md
+author:
+    name: K Gnan Deep Rathan
+    email: kgdrathan@gmail.com
+    github: kgdrathan
+    facebook: kgdrathan
+
