@@ -11,13 +11,13 @@ use_math: true
 We are going to use 'gevent-socketio' a Python package which can be installed using pip. On the client side we are going to use socket.io.js. We are also being careful about which versions of python packages we are using.
 
 1. bullet 1 :)
-2. this is madness from $\sqrt{a^2+b}$
+2. this is madness from 
 
 ## [](#equation)This is rather in the middle
 
 This is one of the root of quadratic equation
 
-$$ \frac{-b+\sqrt{b^2-4ac}}{2a} $$
+
 
 ## Now, this is code
 
