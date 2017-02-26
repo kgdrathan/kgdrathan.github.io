@@ -15,8 +15,9 @@ We are going to use 'gevent-socketio' a Python package which can be installed us
 
 ## [](#equation)This is rather in the middle
 
-This is one of the root of quadratic equation
+This is one of the root of quadratic equation from $ a^3+b $
 
+$$ \frac{-b+\sqrt{b^2-4ac}}{2a} $$
 
 
 ## Now, this is code
