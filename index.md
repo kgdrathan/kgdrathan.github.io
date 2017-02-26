@@ -2,6 +2,7 @@
 layout: default
 title: Chat Application Using Django
 date: 2017-02-25
+use_math: true
 ---
 
 # [](#top)Chat Application Using Django
