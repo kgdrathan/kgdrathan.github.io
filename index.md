@@ -15,7 +15,7 @@ We are going to use 'gevent-socketio' a Python package which can be installed us
 
 ## [](#equation)This is rather in the middle
 
-This is one of the root of quadratic equation from {% raw %} $ a^3+b $ {% endraw %}
+This is one of the root of quadratic equation from {% raw %} $$ a^3+b $$ {% endraw %}
 
 {% raw %} $$ \frac{-b+\sqrt{b^2-4ac}}{2a} $$ {% endraw %}
 
