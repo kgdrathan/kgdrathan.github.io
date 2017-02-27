@@ -3,10 +3,8 @@
 
 @import "{{ site.theme }}";
 
-nav {
-    top: 50px;
-}
-
 section {
     margin-top: 15px;
+    position: relative;
+    left: 20%;
 }
